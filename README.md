@@ -1,5 +1,5 @@
 - 👋 Hi, I’m avinash singh
-- 👀 I’m interested in MEAN/MERN, PostgreSQL, NodeJs, MongoDB, ReactJs, AngularJs, ExpressJs, JavaScript, TypeScript
+- 👀 I’m interested in MERN, PostgreSQL, NodeJs, MongoDB, ReactJs, ExpressJs, JavaScript, Java Development role.
 - 🌱 I’m currently working as Senior Software Engineer
 - 💞️ I’m looking to collaboration.
 - 📫 Reach me out on gmai: avinashkumar.singh2222@gmail.com or on whatsApp: https://wa.me/9793973080
