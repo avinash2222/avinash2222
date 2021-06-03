@@ -5,10 +5,6 @@
 - 📫 Reach me out on gmai: avinashkumar.singh2222@gmail.com or on whatsApp: https://wa.me/9793973080
 - checkmy website at https://carryhome.in https://ucourse.in Both website is under construction 
 
-Organization GitHub collaboration link:
-1. https://github.com/carryhome
-2. https://github.com/ucourse-in
-
 --------------------
 ✅Backend:-
 - Node.Js, Express.Js
