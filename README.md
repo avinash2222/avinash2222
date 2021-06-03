@@ -9,33 +9,32 @@ Organization GitHub collaboration link:
 1. https://github.com/carryhome
 2. https://github.com/ucourse-in
 
-✅Backend:-
 --------------------
+✅Backend:-
 - Node.Js, Express.Js
 - NoSQL DataBase (MongoDB, Mongoose ODM)
 - SQL (MySQL, Sequelize ORM)
 - socket.io (real-time web applications)
 - RESTful API
-- cron job
+- cron job, Agenda Job
 - Postman, Swagger, API Documentation
 - Single Tenant, Multi-Tenant Model
-- Instamojo payment, 2factor SMS integration
-- Access/Refresh Token & Role-Based access control for authentication. authorization
+- Instamojo payment, 2factor SMS integration, nodemailer
+- Access/Refresh Token & Role-Based access control for authentication. authorization, 
 - C++
 - JAVA
-✅Frontend:-
 --------------------
-- React
+✅Frontend:-
+- ReactJs
 - Vanilla JavaScript (ES5, ES6)
 - CSS3, HTML5, Bootstrap
+--------------------
 ✅DevOps:-
+- AWS EC2, S3, Heroku, netlify, githubpages, godaddy, hostgator etc
 --------------------
-- AWS EC2, S3, Heroku
 ✅Testing Framwork:-
---------------------
 - Mocha, Chai
-
-✅GitHub- https://github.com/avinash2222
+- Unit Testing
 
 My Coding Profile
 ✅HackerRank - https://www.hackerrank.com/avinashcat
