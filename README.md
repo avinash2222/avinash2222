@@ -36,11 +36,11 @@ Organization GitHub collaboration link:
 - Mocha, Chai
 - Unit Testing
 --------------------
-My Coding Profile
-✅HackerRank - https://www.hackerrank.com/avinashcat
-✅geeksforgeeks - https://auth.geeksforgeeks.org/user/अज्ञात_जीवात्मा/practice/
-✅HackerEarth - https://www.hackerearth.com/@avinashcat
-✅interviewbit - https://www.interviewbit.com/profile/admin2222/solved-problems
+👀 My Coding Profile
+👋HackerRank - https://www.hackerrank.com/avinashcat
+👋geeksforgeeks - https://auth.geeksforgeeks.org/user/अज्ञात_जीवात्मा/practice/
+👋HackerEarth - https://www.hackerearth.com/@avinashcat
+👋interviewbit - https://www.interviewbit.com/profile/admin2222/solved-problems
 
 I'm reachable at
 ✅ Email - avinashcat.singh2222@gmail.com
