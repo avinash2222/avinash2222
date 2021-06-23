@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://img.shields.io/github/stars/avinash2222?style=flat-square" alt="github-profile-readme-generator stars"/
+<img src="https://img.shields.io/github/stars/avinash2222?style=flat-square" alt="github-profile-readme-generator stars"/>
+  <img src="https://img.shields.io/github/issues-pr/carryhome/carryhome_node_api?style=flat-square" alt="github-profile-readme-generator stars"/>
 </p>
 
 - 👋 Hi, I’m avinash singh
