@@ -10,7 +10,14 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=avinash2222 alt=avinashsingh2222/> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/avinashsingh2222" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avinashsingh2222" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/avinashsingh2222" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="avinashsingh2222" /></a> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avinashcat.singh2222@gmail.com&su=SUBJECT&body=BODY" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"           alt="avinashsingh2222" /></a> 
+ <a href="https://api.whatsapp.com/send/?phone=919793973080&text" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"   alt="avinashsingh2222" /></a> 
+</p>
+
+
+
 
 
 - 👀 I’m interested in MERN, PostgreSQL, NodeJs, MongoDB, ReactJs, ExpressJs, JavaScript, Java Development role.
