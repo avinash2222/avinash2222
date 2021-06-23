@@ -6,7 +6,13 @@
 <img src="https://img.shields.io/github/forks/carryhome/carryhome_node_api?style=flat-square?style=flat-square" alt="avinash2222 fork"/>
 </p>
 
-- 👋 Hi, I’m avinash singh
+<h1 align="center">Hi 👋, I'm Avinash</h1>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=avinash2222 alt=avinashsingh2222/> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://www.linkedin.com/in/avinashsingh2222" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avinashsingh2222" /></a> </p>
+
+
 - 👀 I’m interested in MERN, PostgreSQL, NodeJs, MongoDB, ReactJs, ExpressJs, JavaScript, Java Development role.
 - 🌱 I’m currently working as Senior Software Engineer
 - 💞️ I’m looking for collaboration.
