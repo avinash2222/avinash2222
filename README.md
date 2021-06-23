@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://img.shields.io/github/stars/avinash2222?style=flat-square" alt="github-profile-readme-generator stars"/
+</p>
+
 - 👋 Hi, I’m avinash singh
 - 👀 I’m interested in MERN, PostgreSQL, NodeJs, MongoDB, ReactJs, ExpressJs, JavaScript, Java Development role.
 - 🌱 I’m currently working as Senior Software Engineer
