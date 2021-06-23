@@ -19,6 +19,8 @@
 - 📫 Reach me out on gmai: avinashkumar.singh2222@gmail.com or on whatsApp: https://wa.me/9793973080
 - checkmy website at https://carryhome.in https://ucourse.in Both website is under construction 
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=avinash2222&show_icons=true alt=avinash2222 /> </p>
+
 --------------------
 ✅Backend:-
 - Node.Js, Express.Js
@@ -54,7 +56,6 @@
 
 ✅ I'm reachable at
 - 📫 Email - avinashcat.singh2222@gmail.com
-
 <!---
 avinash2222/avinash2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
