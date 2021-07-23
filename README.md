@@ -24,7 +24,7 @@
 - 🌱 I’m currently working as Senior Software Engineer
 - 💞️ I’m looking for collaboration.
 - 📫 Reach me out on gmai: avinashkumar.singh2222@gmail.com or on whatsApp: https://wa.me/9793973080
-- checkmy website at https://carryhome.in https://ucourse.in Both website is under construction 
+- checkmy website at https://testaxe.com https://ucourse.in Both website is under construction 
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=avinash2222&show_icons=true alt=avinash2222 /> </p>
 
