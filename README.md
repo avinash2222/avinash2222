@@ -40,12 +40,14 @@
 - Instamojo payment, 2factor SMS integration, nodemailer
 - Access/Refresh Token & Role-Based access control for authentication. authorization, 
 - C++
-- JAVA
 --------------------
 ✅Frontend:-
 - ReactJs
 - Vanilla JavaScript (ES5, ES6)
 - CSS3, HTML5, Bootstrap
+--------------------
+✅Mobile App:-
+- React Native
 --------------------
 ✅DevOps:-
 - AWS EC2, S3, Heroku, netlify, githubpages, godaddy, hostgator etc
